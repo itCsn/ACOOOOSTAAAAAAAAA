@@ -1,0 +1,26 @@
+{
+	"version": "2.0.0",
+	"tasks": [
+		{
+			"type": "gradle",
+			"id": "c:\\Users\\Oscar\\Desktop\\Programas\\Mod_Minecraft\\ACOOOOSTAAAAAAAAAbuildACOOOOSTAAAAAAAAA",
+			"script": "build",
+			"description": "Assembles and tests this project.",
+			"group": {
+				"kind": "build",
+				"isDefault": true
+			},
+			"project": "ACOOOOSTAAAAAAAAA",
+			"buildFile": "C:\\Users\\Oscar\\Desktop\\Programas\\Mod_Minecraft\\ACOOOOSTAAAAAAAAA\\build.gradle",
+			"rootProject": "ACOOOOSTAAAAAAAAA",
+			"projectFolder": "c:\\Users\\Oscar\\Desktop\\Programas\\Mod_Minecraft\\ACOOOOSTAAAAAAAAA",
+			"workspaceFolder": "c:\\Users\\Oscar\\Desktop\\Programas\\Mod_Minecraft\\ACOOOOSTAAAAAAAAA",
+			"args": "",
+			"javaDebug": false,
+			"problemMatcher": [
+				"$gradle"
+			],
+			"label": "gradle: build"
+		}
+	]
+}
