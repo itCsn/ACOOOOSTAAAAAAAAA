@@ -4,7 +4,6 @@ import com.pe.uni.fiis.modprueba.ModPrueba;
 import com.pe.uni.fiis.modprueba.item.custom.Notebook;
 
 import net.minecraft.world.item.AxeItem;
-import net.minecraft.world.item.CreativeModeTab;
 import net.minecraft.world.item.Item;
 import net.minecraft.world.item.Tiers;
 import net.minecraftforge.eventbus.api.IEventBus;

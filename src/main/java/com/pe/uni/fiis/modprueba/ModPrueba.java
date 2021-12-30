@@ -2,7 +2,7 @@ package com.pe.uni.fiis.modprueba;
 
 import com.pe.uni.fiis.modprueba.item.ModItem;
 
-import net.minecraft.core.NonNullList;
+
 import net.minecraft.world.item.CreativeModeTab;
 import net.minecraft.world.item.ItemStack;
 import net.minecraft.world.level.block.Blocks;
