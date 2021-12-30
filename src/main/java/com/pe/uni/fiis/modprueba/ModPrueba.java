@@ -21,7 +21,7 @@ public class ModPrueba {
     // Directly reference a log4j logger.
     private static final Logger LOGGER = LogManager.getLogger();
     public static final String Mod_ID = "modprueba";
-    public static final CreativeModeTab ACOSTA_GROUP = new AcostaGroup("AcostaTab");
+    public static final CreativeModeTab ACOSTA_GROUP = new AcostaGroup("AcostaaaaTab");
 
     public ModPrueba() {
         IEventBus eventBus = FMLJavaModLoadingContext.get().getModEventBus();

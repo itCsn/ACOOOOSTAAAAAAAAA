@@ -16,6 +16,8 @@ import java.util.Map;
 
 import com.google.common.collect.ImmutableMap;
 
+
+//esto es un ejemplo de como deberia hacerse un item custom
 public class Notebook extends Item{
     private static final Map<Block, Item> BLOW_TORCH_ITEM_CRAFT = new ImmutableMap.Builder<Block, Item>()
      .put(Blocks.DIRT, Items.GOLDEN_APPLE.asItem()).build();
