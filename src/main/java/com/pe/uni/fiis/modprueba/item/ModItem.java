@@ -4,7 +4,6 @@ import com.pe.uni.fiis.modprueba.ModPrueba;
 import com.pe.uni.fiis.modprueba.item.custom.Notebook;
 import com.pe.uni.fiis.modprueba.item.custom.TecladoDeAcosta;
 
-import net.minecraft.ChatFormatting;
 import net.minecraft.world.item.AxeItem;
 import net.minecraft.world.item.Item;
 import net.minecraft.world.item.Rarity;
